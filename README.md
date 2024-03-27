@@ -24,9 +24,9 @@ Time: 09:30 added to EEprom
 feed 0 delete
 Time: 09:30 deleted
 ```
-4. water *level* - sets desired water level in the pet dish all the time. The level will be in milliliters from 50-500.
-5. water - simply gets the current water level in the pet dish
-6. fill *mode* - there are 2 modes ("fill auto" and "fill motion"). Auto mode checks the pet dish water level with the desired water level and refills if needed. Motion mode freshens up the water in the dish when the pet visits.
-7. alert *mode* - 2 modes ("alert ON" and "alert OFF"). When the alert is on and when the water is under desired which is not refilling, the buzzer starts buzzing. In OFF mode buzzer stays off.
-8. logs - prints time logs when the pet visited the dish. Do not take logs of the same minute considering the pet stays by the dish for approximately 1 minute.
-9. schedule - prints all the time food is supposed to be fetched with all the settings. Also prints the time of the next alarm.
+5. water *level* - sets desired water level in the pet dish all the time. The level will be in milliliters from 50-500.
+6. water - simply gets the current water level in the pet dish
+7. fill *mode* - there are 2 modes ("fill auto" and "fill motion"). Auto mode checks the pet dish water level with the desired water level and refills if needed. Motion mode freshens up the water in the dish when the pet visits.
+8. alert *mode* - 2 modes ("alert ON" and "alert OFF"). When the alert is on and when the water is under desired which is not refilling, the buzzer starts buzzing. In OFF mode buzzer stays off.
+9. logs - prints time logs when the pet visited the dish. Do not take logs of the same minute considering the pet stays by the dish for approximately 1 minute.
+10. schedule - prints all the time food is supposed to be fetched with all the settings. Also prints the time of the next alarm.
